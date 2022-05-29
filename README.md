@@ -45,6 +45,3 @@ Assuming Python and Django is already installed on your local machine, below are
 
    To start the server navigate to manage.py file in project folders and execute the below command <br>
    <b><i>python manage.py runserver port_number</i></b>
-
-## Reflection
-
