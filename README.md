@@ -35,7 +35,7 @@ Assuming Python and Django is already installed on your local machine, below are
 
 1. Clone the repository: <br>
    The code is maintained in GitHub and can be pulled to our local machine using the below command. <br>
-   <em><i>git clone https://github.com/2021cfse031/Microservices_C4_Assignment_Group_9.git</i></em>
+   <b><i>git clone https://github.com/2021cfse031/Microservices_C4_Assignment_Group_9.git</i></b>
 
 2. Launch the application and navigate to endpoints: <br> 
    Each microservice will be running on a different server. The server’s here are isolated using different ports for respective microservices. <br>
@@ -44,7 +44,7 @@ Assuming Python and Django is already installed on your local machine, below are
    c. All Details Domain is configured on port 9000 <br>
 
    To start the server navigate to manage.py file in project folders and execute the below command <br>
-   <em><i>python manage.py runserver port_number</i></em>
+   <b><i>python manage.py runserver port_number</i></b>
 
 ## Reflection
 
