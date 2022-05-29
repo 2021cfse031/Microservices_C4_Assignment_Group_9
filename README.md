@@ -33,16 +33,17 @@ This project uses Django to develop endpoints for students and their scores. It 
 
 Assuming Python and Django is already installed on your local machine, below are the execution instructions for the project;
 
-1. Clone the repository:
-   The code is maintained in GitHub and can be pulled to our local machine using the below command. 
+1. Clone the repository: <br>
+   The code is maintained in GitHub and can be pulled to our local machine using the below command. <br>
    git clone https://github.com/2021cfse031/Microservices_C4_Assignment_Group_9.git
 
-2. Launching the application and navigate to endpoints 
-   Each microservice will be running on a different server. The server’s here are isolated using different ports for respective microservices. 
-   a. Student’s Domain is configured on port 7000
-   b. Scores Domain is configured on port 8000
-   c. All Details Domain is configured on port 9000
-   To start the server navigate to manage.py file in project folders and execute the below command
+2. Launch the application and navigate to endpoints: <br> 
+   Each microservice will be running on a different server. The server’s here are isolated using different ports for respective microservices. <br>
+   a. Student’s Domain is configured on port 7000 <br>
+   b. Scores Domain is configured on port 8000 <br>
+   c. All Details Domain is configured on port 9000 <br>
+
+   To start the server navigate to manage.py file in project folders and execute the below command <br>
    python manage.py runserver port_number
 
 ## Reflection
